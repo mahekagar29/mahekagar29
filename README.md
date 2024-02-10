@@ -20,7 +20,6 @@
 
 <p><img align="right" width="350" height="100" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahekagar29&show_icons=true&locale=en&layout=compact" alt="mahekagar29" /></p>
 <p><img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=mahekagar29&" alt="mahekagar29" /></p>
-<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahekagar29&show_icons=true&locale=en" alt="mahekagar29" /></p>
 
 
