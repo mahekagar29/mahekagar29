@@ -1,5 +1,5 @@
 <h1 align="center"><marquee>Hi There👋</marquee></h1>
-<img align="center" width="900" height="400" src="https://gifsec.com/wp-content/uploads/2022/09/hello-gif-4.gif">
+<img align="center" width="900" height="400" src="[https://gifsec.com/wp-content/uploads/2022/09/hello-gif-4.gif](https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif)">
 <h1 align="center">I'm Mahek Agarwal</h1>
 <h3 align="center">A passionate Data Science Engineering Student from India</h3>
 <img align="right" alt="coding"  width="400" src="https://camo.githubusercontent.com/f8561052d5519d5b219d3d02cdf56d0969d2cdab435e6739ba6b7cb26866f5fe/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966">
